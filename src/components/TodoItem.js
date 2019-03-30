@@ -43,4 +43,5 @@ const btnStyle = {
   curser: "pointer",
   float: "right"
 };
+
 export default TodoItem;
